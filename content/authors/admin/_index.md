@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a Postdoctoral Research Associate in [Princeton Politics](https://politics.princeton.edu/) and a Research Fellow at Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University, and I will join [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/) as an Assistant Professor in the Fall of 2023.
 
-{{< icon name="download" pack="fas" >}} You can download my CV [here](https://github.com/josemoralesarilla/personal_webpage/blob/main/static/uploads/resume.pdf).
+{{< icon name="download" pack="fas" >}} You can download my CV [here](https://www.dropbox.com/s/cpk07j8ml5964jz/JMA_CV_211105.pdf?dl=0).
