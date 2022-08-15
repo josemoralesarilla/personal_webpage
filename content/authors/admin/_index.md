@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a Postdoctoral Research Associate in [Princeton Politics](https://politics.princeton.edu/) and a Research Fellow at Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University. I will join [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/) as an Assistant Professor in the Fall of 2023.
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV [here](https://github.com/josemoralesarilla/personal_webpage/blob/main/static/uploads/resume.pdf).
