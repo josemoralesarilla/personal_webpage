@@ -29,7 +29,7 @@ education:
     - course: PhD in Public Policy
       institution: Harvard University
       year: 2022
-    - course: Masters in Public Administration in International Development (MPAID)
+    - course: Masters in Public Administration in International Development
       institution: Harvard University
       year: 2012
     - course: Bachelor of Arts in Economics
@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a Postdoctoral Research Associate in [Princeton Politics](https://politics.princeton.edu/) and a Research Fellow at Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University. I will join [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/) as an Assistant Professor in the Fall of 2023.
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
