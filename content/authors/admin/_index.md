@@ -10,7 +10,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Politics at Princeton University
+  - name: Department of Politics\nPrinceton University
     url: https://politics.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
