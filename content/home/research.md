@@ -7,7 +7,7 @@ widget: research
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Research'
