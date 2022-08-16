@@ -53,6 +53,9 @@ Prodavinci - January, 2018
 ### [Panama beyond the Canal: Using technological proximities to identify opportunities for productive diversification](https://growthlab.cid.harvard.edu/files/growthlab/files/panama_complexity_wp_324.pdf)
 CID Working Papers - October, 2016
 
+### [Economic complexity in Panama: Assessing opportunities for productive diversification](https://www.hks.harvard.edu/publications/economic-complexity-panama-assessing-opportunities-productive-diversification)
+CID Working Papers - October, 2016
+
 ### [Pobreza, cobertura de las Misiones y necesidad de protección social para la reforma económica de Venezuela](https://growthlab.cid.harvard.edu/files/growthlab/files/cid_rfwp74.pdf)
 CID Working Papers - June, 2016
 
@@ -61,3 +64,8 @@ CGD Working Papers - September, 2012
 
 ### Rethinking the Taboo: Gasoline Subsidies in Venezuela ([Paper](https://www.dropbox.com/s/za0et5ii0z9arxe/SYPA%20-%20Barrios%2C%20Morales%20%282012%29.pdf?dl=0) and [Policy Brief](https://www.dropbox.com/s/0sb8qomtvplyu4w/Policy%20Brief%20-%20Barrios%20and%20Morales%20-%20Rethinking%20the%20Taboo.pdf?dl=0))
 Harvard Kennedy School - May, 2012
+
+### Policy-oriented data visualization tools:
+- [Metroverse](https://metroverse.cid.harvard.edu/)
+- [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+- Subnational Atlases of Economic Complexity: [Colombia](http://datlascolombia.com/), [Peru](http://acomplexperu.concytec.gob.pe/) and [Mexico](https://datos.gob.mx/complejidad/#/downloads?locale=es-mex).
