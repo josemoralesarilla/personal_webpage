@@ -32,7 +32,7 @@ The Brookings Institution - May 2019
 ### [Impact of the 2017 sanctions on Venezuela: Revisiting the evidence](https://www.brookings.edu/research/revisiting-the-evidence-impact-of-the-2017-sanctions-on-venezuela/)
 The Brookings Institution - May 2019
 
-### Sanctions on Venezuela: Cause or consequence of the crisis? ([Spanish version](https://www.brookings.edu/research/revisiting-the-evidence-impact-of-the-2017-sanctions-on-venezuela/), ([English version](https://medium.com/@jose.morales.arilla/sanctions-on-venezuela-cause-or-consequence-of-the-crisis-916c5b14b1fc))) 
+### Sanctions on Venezuela: Cause or consequence of the crisis? ([Spanish version](https://www.brookings.edu/research/revisiting-the-evidence-impact-of-the-2017-sanctions-on-venezuela/), [English version](https://medium.com/@jose.morales.arilla/sanctions-on-venezuela-cause-or-consequence-of-the-crisis-916c5b14b1fc))
 Prodavinci and Medium - May 2019
 
 ### [There is a future after cars: Economic growth analysis for Hermosillo](https://growthlab.cid.harvard.edu/files/hermosillo_economic_analysis_cidrfwp96.pdf)
