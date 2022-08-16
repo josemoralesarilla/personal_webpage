@@ -26,7 +26,7 @@ design:
 ### Interviews and Media Appearances
 - Interviewing Chris Blattman about his fantastic new book ["Why we Fight"](https://www.youtube.com/watch?v=PoM_x-kvSFs) (July, 2022)
 - Harvard's [ReVista](https://www.youtube.com/watch?v=0NJRaCBpRlg) (April, 2020)
-- Interamerican Dialogue's [Energy Advisor](https://www.dropbox.com/s/pznifms9pkykpip/08_Dialogue.pdf?dl=0)
+- Interamerican Dialogue's [Energy Advisor](https://www.dropbox.com/s/pznifms9pkykpip/08_Dialogue.pdf?dl=0) (October, 2016)
 
 ### Opinion pieces for Project Syndicate
 - ["What should Biden do about Venezuela?"](https://www.project-syndicate.org/commentary/biden-strategy-on-venezuela-by-ricardo-hausmann-and-jose-morales-arilla-2021-03) (March, 2021)
