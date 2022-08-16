@@ -30,15 +30,15 @@ design:
 
 ### Opinion pieces for Project Syndicate
 - ["What should Biden do about Venezuela?"](https://www.project-syndicate.org/commentary/biden-strategy-on-venezuela-by-ricardo-hausmann-and-jose-morales-arilla-2021-03) (March, 2021)
-- [Miami Trumps Biden](https://www.project-syndicate.org/commentary/how-trump-won-with-venezuela-in-miami-by-ricardo-hausmann-and-jos-morales-arilla-2020-12?barrier=accesspaylog) (December, 2020)
+- ["Miami Trumps Biden"](https://www.project-syndicate.org/commentary/how-trump-won-with-venezuela-in-miami-by-ricardo-hausmann-and-jos-morales-arilla-2020-12?barrier=accesspaylog) (December, 2020)
 
 ### Opinion pieces for Caracas Chronicles
-- [The left in the Americas and the problem of losing the moral high ground on Venezuela](https://www.caracaschronicles.com/2018/03/09/the-left-in-the-americas-and-the-problem-with-losing-the-moral-high-ground-on-venezuela/) (March, 2018)
-- [Taking apart a false dichotomy: Diversification](https://www.caracaschronicles.com/2017/12/22/dismounting-false-dichotomy-venezuela-energetica-diversification/) (December, 2017)
-- [Laissez-Faire structural transformation (and other myths)](https://www.caracaschronicles.com/2016/12/27/laissez-faire-structural-transformation-myths/) (December, 2016)
-- ["We're rich!" and other myths](https://www.caracaschronicles.com/2016/07/29/were-rich-and-other-myths/) (July, 2016)
-- [The constitutional clash we want](https://www.caracaschronicles.com/2016/01/13/50591/) (January, 2016)
-- [Doña Petra vs. The Machine](https://www.caracaschronicles.com/2015/10/26/dona-petra-vs-the-machine/) (October, 2015)
+- ["The left in the Americas and the problem of losing the moral high ground on Venezuela"](https://www.caracaschronicles.com/2018/03/09/the-left-in-the-americas-and-the-problem-with-losing-the-moral-high-ground-on-venezuela/) (March, 2018)
+- ["Taking apart a false dichotomy: Diversification"](https://www.caracaschronicles.com/2017/12/22/dismounting-false-dichotomy-venezuela-energetica-diversification/) (December, 2017)
+- ["Laissez-Faire structural transformation (and other myths)"](https://www.caracaschronicles.com/2016/12/27/laissez-faire-structural-transformation-myths/) (December, 2016)
+- ["'We're rich!' and other myths"](https://www.caracaschronicles.com/2016/07/29/were-rich-and-other-myths/) (July, 2016)
+- ["The constitutional clash we want"](https://www.caracaschronicles.com/2016/01/13/50591/) (January, 2016)
+- ["Doña Petra vs. The Machine"](https://www.caracaschronicles.com/2015/10/26/dona-petra-vs-the-machine/) (October, 2015)
 
 ### Other opinion pieces:
-- [Gasolina: Ajuste, Reflexión y Condición](https://cronicadesdewashington.blogspot.com/2013/12/gasolina-ajuste-reflexion-y-condicion.html?m=1) (El Universal, December 2013).
+- ["Gasolina: Ajuste, Reflexión y Condición"](https://cronicadesdewashington.blogspot.com/2013/12/gasolina-ajuste-reflexion-y-condicion.html?m=1) (El Universal, December 2013).
