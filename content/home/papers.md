@@ -23,7 +23,7 @@ design:
   columns: '2'
 ---
 
-### [Autocrats in crisis mode: Strategic favoritism during economic shocks](https://josemoralesarilla.com/uploads/paper_01_autocrats.pdf) (Working Paper, JMP)
+### [Autocrats in crisis mode: Strategic favoritism during economic shocks](https://josemoralesarilla.com/uploads/paper_01_autocrats.pdf) (Job Market Paper - [VoxDev Column](https://voxdev.org/topic/institutions-political-economy/autocrats-crisis-mode-how-dictators-adapt-distributive-choices-during-economic-shocks)
 Abstract: Do autocrats favor their supporters during economic shocks? I introduce a model of redistribution and regime stability that shows how in-group favors can be a strategic response to economic downturns. The model predicts that, as economic shocks worsen, autocrats may favor their supporters and confront opposition protests to save on appeasement costs. I test the model's main results in two empirical settings. First, I focus on the Venezuelan blackouts of 2019. Consistent with the model, the Maduro regime was more likely to exempt regime-supporting regions affected by the blackout from later power rationing. Moreover, blackout-induced protests were limited to opposition-leaning regions. I then focus on negative rainfall shocks in Sub-Saharan Africa. Droughts magnify differences in development, protests and state-coercion outcomes in favor of leaders' home regions.
 
 ### [Gains from globalization and economic nationalism: AMLO v. NAFTA in the 2006 Mexican election](https://josemoralesarilla.com/uploads/paper_02_AMLO.pdf) (R&R, Economics and Politics)
