@@ -36,8 +36,8 @@ The Brookings Institution - May 2019
 ### [Impact of the 2017 sanctions on Venezuela: Revisiting the evidence](https://www.brookings.edu/research/revisiting-the-evidence-impact-of-the-2017-sanctions-on-venezuela/)
 The Brookings Institution - May 2019
 
-### Sanctions on Venezuela: Cause or consequence of the crisis? ([Spanish version](https://prodavinci.com/sanciones-causa-o-consecuencia-de-la-crisis/), [English version](https://medium.com/@jose.morales.arilla/sanctions-on-venezuela-cause-or-consequence-of-the-crisis-916c5b14b1fc))
-Prodavinci and Medium - May 2019
+### [Sanctions on Venezuela: Cause or consequence of the crisis?](https://medium.com/@jose.morales.arilla/sanctions-on-venezuela-cause-or-consequence-of-the-crisis-916c5b14b1fc)
+Prodavinci and Medium - May 2019 ([Versión en Español](https://prodavinci.com/sanciones-causa-o-consecuencia-de-la-crisis/))
 
 ### [There is a future after cars: Economic growth analysis for Hermosillo](https://growthlab.cid.harvard.edu/files/hermosillo_economic_analysis_cidrfwp96.pdf)
 CID Working Papers - October, 2018
@@ -66,8 +66,8 @@ CID Working Papers - June, 2016
 ### [Direct Distribution of Oil Revenues in Venezuela: A Viable Alternative?](https://www.cgdev.org/sites/default/files/1426486_file_Rodriguez_et_al_Venezuela_OTC_FINAL_0.pdf)
 CGD Working Papers - September, 2012
 
-### Rethinking the Taboo: Gasoline Subsidies in Venezuela ([Paper](https://www.dropbox.com/s/za0et5ii0z9arxe/SYPA%20-%20Barrios%2C%20Morales%20%282012%29.pdf?dl=0) and [Policy Brief](https://www.dropbox.com/s/0sb8qomtvplyu4w/Policy%20Brief%20-%20Barrios%20and%20Morales%20-%20Rethinking%20the%20Taboo.pdf?dl=0))
-Harvard Kennedy School - May, 2012
+### [Rethinking the Taboo: Gasoline Subsidies in Venezuela](https://www.dropbox.com/s/za0et5ii0z9arxe/SYPA%20-%20Barrios%2C%20Morales%20%282012%29.pdf?dl=0)
+Harvard Kennedy School - May, 2012 ([Policy Brief](https://www.dropbox.com/s/0sb8qomtvplyu4w/Policy%20Brief%20-%20Barrios%20and%20Morales%20-%20Rethinking%20the%20Taboo.pdf?dl=0))
 
 ### Policy-oriented data visualization tools:
 - [Metroverse](https://metroverse.cid.harvard.edu/)
