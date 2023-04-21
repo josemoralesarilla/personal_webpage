@@ -24,7 +24,7 @@ design:
 ---
 # Published Work
 
-### [Export side effects of wars on organized crime: The case of Mexico](https://josemoralesarilla.com/uploads/paper_03_WoD.pdf) (Journal of International Economics, 2023)
+### [Export side effects of wars on organized crime: The case of Mexico](https://josemoralesarilla.com/uploads/paper_03_MDW.pdf) (Journal of International Economics, 2023)
 Abstract: This paper finds that law enforcement interventions during the Mexican Drug War (MDW) hindered local export growth. We leverage exogenous variation in drug enforcement from the close election of mayors affliated with the national ruling party during the MDW. Firms servicing the same markets but exogenously exposed to drug enforcement experienced lower export growth. The MDW decreased capital investments, eroding productivity gains in capital-intensive activities.
 
 ### [Economic Development in Historical Political Economy](https://josemoralesarilla.com/uploads/paper_06_hpechapter.pdf) (The Oxford Handbook of Historical Political Economy, 2022)
