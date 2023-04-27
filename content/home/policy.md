@@ -26,6 +26,8 @@ design:
 ### [Economic Integration of Venezuelan Immigrants in Colombia: A Policy Roadmap](https://www.cgdev.org/sites/default/files/economic-integration-venezuelan-immigrants-colobia-policy-roadmap-ENG.pdf)
 Center for Global Development - December 2022 ([Versión en Español](https://www.cgdev.org/sites/default/files/economic-integration-venezuelan-immigrants-colombia-policy-roadmap-ESP.pdf))
 
+### [Remote work wanted? Analyzing online job postings during COVID-19](https://www.brookings.edu/blog/up-front/2021/08/12/remote-work-wanted-analyzing-online-job-postings-during-covid-19/)
+The Brookings Institution - August 2021
 
 ### [Growing cities that work for all: A capabilities-based approach to regional economic competitiveness](https://www.brookings.edu/wp-content/uploads/2019/05/GrowingCitiesthatWorkforAll-FINALforWeb.pdf)
 The Brookings Institution - May 2019
