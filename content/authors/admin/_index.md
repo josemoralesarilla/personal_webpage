@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bush School of Government and Public Service - Texas A&M University
+  - name: Texas A&M's Bush School of Government and Public Service
   - url: https://bush.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
