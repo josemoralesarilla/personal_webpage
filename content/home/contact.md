@@ -27,22 +27,22 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jmoralesarilla@princeton.edu
+  email: josemoralesarilla@tamu.edu
   #phone: 888 888 88 88
   address:
-    street: B13 Fisher Hall 
-    city: Princeton
-    region: NJ
-    postcode: '08544'
+    street: Office 1051, Allen Building, 4220 George Bush Dr W.
+    city: College Station
+    region: TX
+    postcode: '77845'
     country: United States
     country_code: US
   coordinates:
-    latitude: '40.348284'
-    longitude: '-74.653928'
+    latitude: '30.59746540465417'
+    longitude: '-96.35205266837987'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
-  #  - 'Monday 10:00 to 13:00'
-  #  - 'Wednesday 09:00 to 10:00'
+  #- 'Monday 10:00 to 13:00'
+  #- 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
@@ -52,8 +52,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom
-      link: 'https://princeton.zoom.us/j/3833312114'
-
+      link: 'https://tamu.zoom.us/my/josemoralesarilla'
 design:
   columns: '2'
 ---
