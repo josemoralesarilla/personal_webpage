@@ -30,7 +30,7 @@ content:
   email: josemoralesarilla@tamu.edu
   #phone: 888 888 88 88
   address:
-    street: Office 1051, Allen Building, 4220 George Bush Dr W.
+    street: Office 1051, Allen Building, 4220 George Bush Dr W
     city: College Station
     region: TX
     postcode: '77845'
