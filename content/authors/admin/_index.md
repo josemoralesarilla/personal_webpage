@@ -6,15 +6,15 @@ title: Jose Morales-Arilla
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Princeton Politics
-    url: https://politics.princeton.edu/
+  - name: Bush School of Government and Public Service - Texas A&M University
+    url: https://bush.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Public Policy from Harvard University. Postdoctoral Fellow at Princeton Politics and Research Fellow at Harvard's Growth Lab. Soon to be Assistant Professor at the Bush School of Government in Texas A&M. 
+bio: PhD in Public Policy from Harvard University. Assistant Professor at the Bush School of Government in Texas A&M. 
 
 # Interests to show in About widget
 interests:
@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Research Associate in [Princeton Politics](https://politics.princeton.edu/) and a Research Fellow at Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University, and I will join [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/) as an Assistant Professor in the Fall of 2023.
+I am an Assistant Professor in [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University, and pursued postdoctoral research at [Princeton Politics](https://politics.princeton.edu/) and Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/).
 
 {{< icon name="download" pack="fas" >}} You can download my CV [here](uploads/resume.pdf).
