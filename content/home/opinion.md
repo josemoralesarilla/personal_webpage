@@ -24,6 +24,7 @@ design:
 ---
 
 ### Interviews and Media Appearances
+- Interviewing Bruce Bueno de Mesquita and Alastair Smith about [Political Favoritism and Regime Stability](https://growthlab.hks.harvard.edu/political-favoritism-and-regime-stability-why-bad-policy-almost-always-good-politics) (November, 2022)
 - Interviewing Chris Blattman about his fantastic new book ["Why we Fight"](https://www.youtube.com/watch?v=PoM_x-kvSFs) (July, 2022)
 - Harvard's [ReVista](https://www.youtube.com/watch?v=0NJRaCBpRlg) (April, 2020)
 - Interamerican Dialogue's [Energy Advisor](https://www.dropbox.com/s/pznifms9pkykpip/08_Dialogue.pdf?dl=0) (October, 2016)
