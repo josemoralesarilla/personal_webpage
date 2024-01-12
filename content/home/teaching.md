@@ -23,6 +23,9 @@ design:
   columns: '2'
 ---
 
+### Professor - INTA670: Capstone Seminar in International Affairs
+Texas A&M University - College Station, TX - Spring, 2024
+
 ### Professor - Bush635: Quantitative Methods II
 Texas A&M University - College Station, TX - Spring, 2024
 - [Syllabus](https://www.dropbox.com/scl/fi/zscvognb7wthwphg16p0j/B635_Syllabus.pdf?rlkey=gzwcghxvdf9rratx1dnr2uohy&dl=0)
