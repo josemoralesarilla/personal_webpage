@@ -23,16 +23,25 @@ design:
   columns: '2'
 ---
 
+### Professor - Bush635: Quantitative Methods II
+Texas A&M University - College Station, TX - Spring, 2024
+- [Syllabus](https://www.dropbox.com/scl/fi/zscvognb7wthwphg16p0j/B635_Syllabus.pdf?rlkey=gzwcghxvdf9rratx1dnr2uohy&dl=0)
+
+### Professor - Bush631: Quantitative Methods I
+Texas A&M University - College Station, TX - Fall, 2023
+- [Syllabus](https://www.dropbox.com/scl/fi/bfcivllqcgj6k8rr7h3j1/B631_Syllabus.pdf?rlkey=puz6d0lbvozt3v6w3l3w9au0c&dl=0)
+- [Teaching Materials](https://www.dropbox.com/scl/fo/b8jrvsrfw3v1hfr4ln3oj/h?rlkey=s5r287jnvrrxtajxzaksgxdqy&dl=0)
+
 ### Professor - Introduction to Causal Inference (in Spanish)
 Universidad Católica Andrés Bello - Caracas, Venezuela - Spring, 2022
-- [Teaching Materials](https://github.com/josemoralesarilla/Causalidad2022)
 - [Syllabus](https://josemoralesarilla.com/uploads/teach_03_syllabus_causal22.pdf)
+- [Teaching Materials](https://github.com/josemoralesarilla/Causalidad2022)
 
 ### Teaching Fellow - ECON50: Using Big Data to Solve Economic and Social Problems
 Harvard University - Cambridge, MA - Spring, 2020
 - Taught by Raj Chetty and Greg Bruich at Harvard College
-- [Course Description and Materials](https://opportunityinsights.org/course/)
 - [Syllabus](https://josemoralesarilla.com/uploads/teach_04_syllabus_econ50.pdf)
+- [Course Description and Materials](https://opportunityinsights.org/course/)
 
 ### Teaching Fellow - API209: Advanced Quantitative Methods I
 Harvard University - Cambridge, MA - Fall, 2019
@@ -52,5 +61,6 @@ Harvard Business School Teaching Case Study ([Part A](https://www.hbs.edu/facult
 
 ### Professor - Political Economy (in Spanish)
 Universidad Católica Andrés Bello - Caracas, Venezuela - Fall, 2012
-- [Teaching Materials](https://www.dropbox.com/sh/kbwrip38ms1rqoc/AACfjLvLM7mm75NSVMyVQfIoa?dl=0)
 - [Syllabus](https://josemoralesarilla.com/uploads/teach_05_syllabus_polecon12.pdf)
+- [Teaching Materials](https://www.dropbox.com/sh/kbwrip38ms1rqoc/AACfjLvLM7mm75NSVMyVQfIoa?dl=0)
+
