@@ -28,7 +28,7 @@ Texas A&M University - College Station, TX - Spring, 2024
 - [Final Report](https://www.dropbox.com/scl/fi/zhaixpodfdkdkvydy8c2a/Final_Report.pdf?rlkey=aqfl7nx1txfozchn42e1cjmog&dl=0)
 
 
-### BUSH635: Quantitative Methods II - Causal Inference, Machine Learning and Data Science
+### BUSH635: Quantitative Methods II - Intro to Causal Inference and Machine Learning
 Texas A&M University - College Station, TX - Spring, 2024
 - [Syllabus](https://www.dropbox.com/scl/fi/zscvognb7wthwphg16p0j/B635_Syllabus.pdf?rlkey=gzwcghxvdf9rratx1dnr2uohy&dl=0)
 - [Teaching Materials](https://www.dropbox.com/scl/fo/aqboqssl3w9iv2o7wxbwt/AKEg-Dv7BI5gKUr65xgDV2U?rlkey=ujb0xrqmhptrm138f7hngovbw&dl=0)
