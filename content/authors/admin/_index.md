@@ -6,20 +6,21 @@ title: Jose Morales-Arilla
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Research Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Texas A&M's Bush School of Government and Public Service
-    url: https://bush.tamu.edu/
+  - name: Tecnologico de Monterrey's Graduate School of Government and Public Transformation
+    url: https://egobiernoytp.tec.mx/es
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Public Policy from Harvard University. Assistant Professor at the Bush School of Government in Texas A&M. 
+bio: PhD in Public Policy from Harvard University. Research Professor at Tecnologico de Monterrey's Graduate School of Government and Public Transformation.
 
 # Interests to show in About widget
 interests:
   - Political Economy
   - Development Economics
+  - International Trade
   - Applied Econometrics
   - Latin America
 
@@ -71,6 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor in [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade and growth. I have a PhD in Public Policy from Harvard University, and pursued postdoctoral research at [Princeton Politics](https://politics.princeton.edu/) and Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). Starting in the Fall of 2024, I'll be a Research Professor in the Graduate School of Government and Public Transformation at ITESM in Mexico City.
+I am a Research Professor at Tecnologico de Monterrey's [Graduate School of Government and Public Transformation](https://egobiernoytp.tec.mx/es). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade, migration and growth. I have a PhD in Public Policy from Harvard University, and pursued postdoctoral research at [Princeton Politics](https://politics.princeton.edu/) and Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). Previously, I was an Assistant Professor in [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/).
 
 {{< icon name="download" pack="fas" >}} You can download my CV [here](uploads/resume.pdf).
