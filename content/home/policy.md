@@ -23,8 +23,8 @@ design:
   columns: '2'
 ---
 
-### Prosperity over Conflict: Leveraging economic interdependence for offshore energy developments in the Levant
-Mosbacher Institute - Spring 2024
+### [Prosperity over Conflict: Leveraging economic interdependence for offshore energy developments in the Levant](https://bush.tamu.edu/wp-content/uploads/2024/05/MWP_Levant_V4_Iss2.pdf)
+Mosbacher Institute - May 2024
 
 
 ### [Economic Integration of Venezuelan Immigrants in Colombia: A Policy Roadmap](https://www.cgdev.org/sites/default/files/economic-integration-venezuelan-immigrants-colobia-policy-roadmap-ENG.pdf)
