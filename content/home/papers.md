@@ -47,6 +47,7 @@ Abstract: As the COVID-19 pandemic pushed firms to comply with social distancing
 
 ### GLocal: A global development dataset of local administrative areas. (R&R, Scientific Data)
 Abstract: The purpose of the Glocal dataset is to enable development research that requires both international scope and subnational precision. Leveraging modern geospatial analysis tools, we process a diverse array of sources to provide researchers with a growing set of economic, demographic, ecological and socio-political variables at comparable geographic and temporal units. We provide separate files for data at the first (Country), second (i.e. State) and third administrative (i.e. Municipality) levels with either static, yearly or monthly periodicity. We also provide a number of ad-hoc files for specific topics. Given the growing number of public, granular and relevant sources, we hope to continue expanding this dataset in the future.
+([Dataset Repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6TUCTE))
 
 # Working papers
 
