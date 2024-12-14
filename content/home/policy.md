@@ -23,6 +23,9 @@ design:
   columns: '2'
 ---
 
+### [La Complejidad Económica de El Salvador: Usando proximidades tecnológicas para identificar oportunidades de diversificación productiva](https://egobiernoytp.tec.mx/sites/default/files/2024-07/2024-06-wp1-complejidad-economica-el-salvador_1.pdf)
+Escuela de Gobierno y Transformación Pública - June 2024
+
 ### [Prosperity over Conflict: Leveraging economic interdependence for offshore energy developments in the Levant](https://bush.tamu.edu/wp-content/uploads/2024/05/MWP_Levant_V4_Iss2.pdf)
 Mosbacher Institute - May 2024
 
