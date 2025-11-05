@@ -34,10 +34,6 @@ Tecnológico de Monterrey - Mexico City, Mexico - Winter, 2025 and Winter, 2026
 Tecnológico de Monterrey - Mexico City, Mexico - Spring, 2024 and Spring 2025
 - [Syllabus](https://www.dropbox.com/scl/fi/yo6bo0m5cmk7ahffc040d/2024_RE4020.1_Syllabus_draft_v4_rev.docx?rlkey=fe8901ax6t5ij8wbwvt0rhn4k&st=2syhtcck&dl=0)
 
-### RE4020: Development Economics
-Tecnológico de Monterrey - Mexico City, Mexico - Spring, 2024 and Spring 2025
-- [Syllabus](https://www.dropbox.com/scl/fi/yo6bo0m5cmk7ahffc040d/2024_RE4020.1_Syllabus_draft_v4_rev.docx?rlkey=fe8901ax6t5ij8wbwvt0rhn4k&st=2syhtcck&dl=0)
-
 ### INTA670: Capstone Seminar in International Affairs - Economic integration of Venezuelan Refugees in Ecuador and Peru
 Texas A&M University - College Station, TX - Spring, 2024
 - [Final Report](https://www.dropbox.com/scl/fi/zhaixpodfdkdkvydy8c2a/Final_Report.pdf?rlkey=aqfl7nx1txfozchn42e1cjmog&dl=0)
