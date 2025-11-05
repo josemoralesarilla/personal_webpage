@@ -23,8 +23,19 @@ design:
   columns: '2'
 ---
 
+### Co-Author - "Defying the odds: María Corina Machado and Venezuela's 2024 Election"
+Harvard Kennedy School Teaching Case Study - November, 2025
+
+### EO5025: Quantitative Methods II
+Tecnológico de Monterrey - Mexico City, Mexico - Winter, 2025 and Winter, 2026
+- [Syllabus](https://www.dropbox.com/scl/fi/lmezff4s7m33c1gx7shjs/Syllabus.pdf?rlkey=ikhmgr99j3pqrosj9xymptnve&st=hr1ftjy1&dl=0)
+
 ### RE4020: Development Economics
-Tecnológico de Monterrey - Mexico City, Mexico - Spring, 2024
+Tecnológico de Monterrey - Mexico City, Mexico - Spring, 2024 and Spring 2025
+- [Syllabus](https://www.dropbox.com/scl/fi/yo6bo0m5cmk7ahffc040d/2024_RE4020.1_Syllabus_draft_v4_rev.docx?rlkey=fe8901ax6t5ij8wbwvt0rhn4k&st=2syhtcck&dl=0)
+
+### RE4020: Development Economics
+Tecnológico de Monterrey - Mexico City, Mexico - Spring, 2024 and Spring 2025
 - [Syllabus](https://www.dropbox.com/scl/fi/yo6bo0m5cmk7ahffc040d/2024_RE4020.1_Syllabus_draft_v4_rev.docx?rlkey=fe8901ax6t5ij8wbwvt0rhn4k&st=2syhtcck&dl=0)
 
 ### INTA670: Capstone Seminar in International Affairs - Economic integration of Venezuelan Refugees in Ecuador and Peru
