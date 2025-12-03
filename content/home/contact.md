@@ -27,15 +27,15 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: josemoralesarilla@tamu.edu
+  email: josemoralesarilla@tec.mx
   #phone: 888 888 88 88
   address:
-    street: Office 1051, Allen Building, 4220 George Bush Dr W
-    city: College Station
-    region: TX
-    postcode: '77845'
-    country: United States
-    country_code: US
+    street: Av. Revolucion 756
+    city: Benito Juarez
+    region: CDMX
+    postcode: '03700'
+    country: Mexico
+    country_code: MX
   coordinates:
     latitude: '30.59746540465417'
     longitude: '-96.35205266837987'
@@ -52,7 +52,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom
-      link: 'https://tamu.zoom.us/my/josemoralesarilla'
+      link: 'https://itesm.zoom.us/s/5158889406'
 design:
   columns: '2'
 ---
