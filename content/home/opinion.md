@@ -35,6 +35,7 @@ design:
 - Interamerican Dialogue's [Energy Advisor](https://www.dropbox.com/s/pznifms9pkykpip/08_Dialogue.pdf?dl=0) (October, 2016)
 
 ### Opinion articles
+- ["How Machado Can Steer Venezuela Toward Democracy"](https://www.journalofdemocracy.org/online-exclusive/how-machado-can-steer-venezuela-toward-democracy/) (Journal of Democracy, January 2026)
 - ["Trump Picked This Fight With Maduro. He Can’t Back Down."](https://www.nytimes.com/2025/12/10/opinion/trum-maduro-venezuela.html) (The New York Times, December 2025)
 - ["How Venezuela Actually Becomes a Democracy"](https://www.journalofdemocracy.org/online-exclusive/how-venezuela-actually-becomes-a-democracy/) (Journal of Democracy, December 2025)
 - ["The Time has Come for Credible Off-Ramps In Venezuela"](https://www.caracaschronicles.com/2025/11/18/the-time-has-come-for-credible-off-ramps-in-venezuela/) (Caracas Chronicles, November 2025)
