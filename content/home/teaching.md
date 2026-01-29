@@ -74,7 +74,7 @@ Harvard University - Cambridge, MA - Fall, 2018
 
 ### Co-Author - "Improving Worker Safety in the Era of Machine Learning"
 Harvard Business School Teaching Case Study - April, 2018
-- [Part A](https://www.hbs.edu/faculty/Pages/item.aspx?num=53417) and [Part B](https://www.hbs.edu/faculty/Pages/item.aspx?num=54394))
+- [Part A](https://www.hbs.edu/faculty/Pages/item.aspx?num=53417) and [Part B](https://www.hbs.edu/faculty/Pages/item.aspx?num=54394)
 
 ### Professor - Political Economy
 Universidad Católica Andrés Bello - Caracas, Venezuela - Fall, 2012
