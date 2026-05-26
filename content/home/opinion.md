@@ -24,6 +24,7 @@ design:
 ---
 
 ### Interviews and Media Appearances
+- Interview on book about sanctions on Venezuela: [VPI TV](https://www.youtube.com/watch?v=fjUAXp9qg6w) (May, 2026)
 - Interview on book about sanctions on Venezuela: [Caracas Chronicles](https://www.youtube.com/watch?v=QcjeMK-Ds14&t=341s) (May, 2026)
 - Interview on JoD article on democracy and transitional justice in Venezuela: [Review of Democracy](https://revdem.ceu.edu/2026/05/11/democracy-authoritarianism-venezuela/) (April, 2026)
 - Podcast Interview on Venezuela after the extraction of Nicolás Maduro: [La Plaza de Toro](https://open.spotify.com/episode/1628HWEnS2VIkDteCzlylW?si=2Z0qAm0cT1-_hNBYlSql4w&ct=1600&nd=1&dlsi=7084e276a3de42a3) (January, 2026)
