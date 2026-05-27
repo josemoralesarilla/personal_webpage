@@ -24,6 +24,7 @@ design:
 ---
 
 ### Interviews and Media Appearances
+- Interview on book about sanctions on Venezuela: [Runrunes/TalCual/ElPitazo (Min 13:30)](https://x.com/RunRunesWeb/status/2059413125615550665) (May, 2026)
 - Interview on book about sanctions on Venezuela: [VPI TV](https://www.youtube.com/watch?v=fjUAXp9qg6w) (May, 2026)
 - Interview on book about sanctions on Venezuela: [Caracas Chronicles](https://www.youtube.com/watch?v=QcjeMK-Ds14&t=341s) (May, 2026)
 - Interview on JoD article on democracy and transitional justice in Venezuela: [Review of Democracy](https://revdem.ceu.edu/2026/05/11/democracy-authoritarianism-venezuela/) (April, 2026)
