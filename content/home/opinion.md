@@ -26,7 +26,7 @@ design:
 ### Interviews and Media Appearances
 - Interview on Sanctions and Political Negotiations in Venezuela: [Union Radio](https://www.youtube.com/watch?v=CRfVCjN0JZM) (July, 2026)
 - Interview on Venezuela's Double Earthquake: [CNN En Español's Oppenheimer Presenta (Min 23:15)](https://www.youtube.com/watch?v=ag4x9nPdj6E) (July, 2026)
- Interview on Venezuela's Double Earthquake: [Esto es Venezueling Podcast](https://www.youtube.com/watch?v=JzP_-CZ8FB0) (July, 2026)
+- Interview on Venezuela's Double Earthquake: [Esto es Venezueling Podcast](https://www.youtube.com/watch?v=JzP_-CZ8FB0) (July, 2026)
 - Interview on book about sanctions on Venezuela: [Tres Preguntas Podcast](https://www.youtube.com/watch?v=Lb_DuwhUKAY&t=422s) (July, 2026)
 - Interview on book about sanctions on Venezuela: [UPenn's Ceteris Paribus Podcast](https://www.youtube.com/watch?v=Sa75m77Y0WE) (July, 2026)
 - Interview on book about sanctions on Venezuela: [Runrunes/TalCual/ElPitazo (Min 13:30)](https://x.com/RunRunesWeb/status/2059413125615550665) (May, 2026)
