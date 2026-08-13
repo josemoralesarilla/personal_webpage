@@ -23,12 +23,14 @@ design:
   columns: '2'
 ---
 
+### [Monitoreo económico de alta resolución en El Salvador: Estimación oportuna del crecimiento del PIB y su desagregación espacial](https://egobiernoytp.tec.mx/sites/default/files/2026-07/monitoreo_economico_alta_resolucion_salvador.pdf)
+Escuela de Gobierno y Transformación Pública, Tec de Monterrey - July 2026
+
 ### [La Complejidad Económica de El Salvador: Usando proximidades tecnológicas para identificar oportunidades de diversificación productiva](https://egobiernoytp.tec.mx/sites/default/files/2024-07/2024-06-wp1-complejidad-economica-el-salvador_1.pdf)
-Escuela de Gobierno y Transformación Pública - June 2024
+Escuela de Gobierno y Transformación Pública, Tec de Monterrey - June 2024
 
 ### [Prosperity over Conflict: Leveraging economic interdependence for offshore energy developments in the Levant](https://bush.tamu.edu/wp-content/uploads/2024/05/MWP_Levant_V4_Iss2.pdf)
-Mosbacher Institute - May 2024
-
+Mosbacher Institute, Texas A&M University - May 2024
 
 ### [Economic Integration of Venezuelan Immigrants in Colombia: A Policy Roadmap](https://www.cgdev.org/sites/default/files/economic-integration-venezuelan-immigrants-colombia-policy-roadmap-ENG.pdf)
 Center for Global Development - December 2022 ([Versión en Español](https://www.cgdev.org/sites/default/files/economic-integration-venezuelan-immigrants-colombia-policy-roadmap-ESP.pdf))
@@ -49,31 +51,31 @@ The Brookings Institution - May 2019
 Prodavinci and Medium - May 2019 ([Versión en Español](https://prodavinci.com/sanciones-causa-o-consecuencia-de-la-crisis/))
 
 ### [There is a future after cars: Economic growth analysis for Hermosillo](https://growthlab.cid.harvard.edu/files/hermosillo_economic_analysis_cidrfwp96.pdf)
-CID Working Papers - October, 2018
+CID Working Papers, Harvard University - October, 2018
 
 ### [Tabasco: Reporte de complejidad económica](https://growthlab.cid.harvard.edu/files/growthlab/files/tabasco_complejidadeconomica_cidrfwp107.pdf)
-CID Working Papers - September 2018
+CID Working Papers, Harvard University - September 2018
 
 ### [Campeche: Reporte de complejidad económica](https://growthlab.cid.harvard.edu/files/growthlab/files/campeche_complejidadeconomica_cidrfwp102.pdf)
-CID Working Papers - September 2018
+CID Working Papers, Harvard University - September 2018
 
 ### [Baja California: Reporte de complejidad económica](https://growthlab.cid.harvard.edu/files/growthlab/files/baja_complejidadeconomica_cidrfwp97.pdf)
-CID Working Papers - September 2018
+CID Working Papers, Harvard University - September 2018
 
 ### [Diversificación y desarrollo en Venezuela: ¿Qué hacer si el petróleo ya no basta?](https://prodavinci.com/diversificacion-y-desarrollo-en-venezuela-que-hacer-si-el-petroleo-ya-no-basta/)
 Prodavinci - January, 2018
 
 ### [Panama beyond the Canal: Using technological proximities to identify opportunities for productive diversification](https://growthlab.cid.harvard.edu/files/growthlab/files/panama_complexity_wp_324.pdf)
-CID Working Papers - October, 2016
+CID Working Papers, Harvard University - October, 2016
 
 ### [Economic complexity in Panama: Assessing opportunities for productive diversification](https://www.hks.harvard.edu/publications/economic-complexity-panama-assessing-opportunities-productive-diversification)
-CID Working Papers - October, 2016
+CID Working Papers, Harvard University - October, 2016
 
 ### [Pobreza, cobertura de las Misiones y necesidad de protección social para la reforma económica de Venezuela](https://growthlab.cid.harvard.edu/files/growthlab/files/cid_rfwp74.pdf)
-CID Working Papers - June, 2016
+CID Working Papers, Harvard University - June, 2016
 
 ### [Direct Distribution of Oil Revenues in Venezuela: A Viable Alternative?](https://www.cgdev.org/sites/default/files/1426486_file_Rodriguez_et_al_Venezuela_OTC_FINAL_0.pdf)
-CGD Working Papers - September, 2012
+CGD Working Papers, Harvard University - September, 2012
 
 ### [Rethinking the Taboo: Gasoline Subsidies in Venezuela](https://www.dropbox.com/s/za0et5ii0z9arxe/SYPA%20-%20Barrios%2C%20Morales%20%282012%29.pdf?dl=0)
 Harvard Kennedy School - May, 2012 ([Policy Brief](https://www.dropbox.com/s/0sb8qomtvplyu4w/Policy%20Brief%20-%20Barrios%20and%20Morales%20-%20Rethinking%20the%20Taboo.pdf?dl=0))
