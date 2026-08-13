@@ -14,7 +14,7 @@ organizations:
     url: https://egobiernoytp.tec.mx/es
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Public Policy from Harvard University. Research Professor at Tecnologico de Monterrey's Graduate School of Government and Public Transformation.
+bio: Research Professor at Tecnologico de Monterrey's Graduate School of Government and Public Transformation. PhD in Public Policy from Harvard University. 
 
 # Interests to show in About widget
 interests:
@@ -72,6 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Research Professor at Tecnologico de Monterrey's [Graduate School of Government and Public Transformation](https://egobiernoytp.tec.mx/es). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade, migration and growth. I have a PhD in Public Policy from Harvard University, and pursued postdoctoral research at [Princeton Politics](https://politics.princeton.edu/) and Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). Previously, I was an Assistant Professor in [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/).
+I am a Research Professor at Tecnologico de Monterrey's [Graduate School of Government and Public Transformation](https://egobiernoytp.tec.mx/es), and Fellow at the [BBVA-TEC Center for Trade Policy and Global Value Chains in North America](https://egobiernoytp.tec.mx/es/noticias/el-centro-bbva-tec-celebra-su-primer-workshop-sobre-politica-comercial-y-cadenas-globales?_gl=1*r17qtv*_gcl_au*MTk4NTE3NTM0OS4xNzgxODMxNTM2LjE1NTczMDIxMzkuMTc4NjQwNTA4MS4xNzg2NDA1MDgxLjY5MzMxNjkyMy4xNzg2NDA1MDgxLjE3ODY0MDUwODE.*_ga*MTQyNzMyMDA1LjE3ODE4MzE1Mzc.*_ga_D9LSDN87GD*czE3ODY2NTAxNzgkbzExJGcwJHQxNzg2NjUwMTc4JGo2MCRsMCRoMTM0MjE5NjY2Nw..). My fields of research are Political Economy and Development Economics. My work leverages advanced quantitative methods to study the political causes and consequences of some of today's most pressing development issues - inequality, violence, trade, migration and growth. I have a PhD in Public Policy from Harvard University, and pursued postdoctoral research at [Princeton Politics](https://politics.princeton.edu/) and Harvard's [Growth Lab](https://growthlab.cid.harvard.edu/). Previously, I was an Assistant Professor in [Texas A&M's Bush School of Government and Public Service](https://bush.tamu.edu/).
 
 {{< icon name="download" pack="fas" >}} You can download my CV [here](uploads/resume.pdf).
