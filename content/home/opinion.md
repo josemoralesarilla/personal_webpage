@@ -25,40 +25,54 @@ design:
 
 ### Interviews and Media Appearances
 - Interview on Sanctions and Political Negotiations in Venezuela:
-  - [Union Radio](https://www.youtube.com/watch?v=CRfVCjN0JZM) (July, 2026)
+
+  [Union Radio](https://www.youtube.com/watch?v=CRfVCjN0JZM) (July, 2026)
 - Interview on Venezuela's Double Earthquake:
 
   [CNN En Español's Oppenheimer Presenta (Min 23:15)](https://www.youtube.com/watch?v=ag4x9nPdj6E) (July, 2026)
 - Interview on Venezuela's Double Earthquake:
+
   [Esto es Venezueling Podcast](https://www.youtube.com/watch?v=JzP_-CZ8FB0) (July, 2026)
 - Interview on book about sanctions on Venezuela:
+
   [Tres Preguntas Podcast](https://www.youtube.com/watch?v=Lb_DuwhUKAY&t=422s) (July, 2026)
 - Interview on book about sanctions on Venezuela:
+
   [UPenn's Ceteris Paribus Podcast](https://www.youtube.com/watch?v=Sa75m77Y0WE) (July, 2026)
 - Interview on book about sanctions on Venezuela:
+
   [Runrunes/TalCual/ElPitazo (Min 13:30)](https://x.com/RunRunesWeb/status/2059413125615550665) (May, 2026)
 - Interview on book about sanctions on Venezuela:
+
   [VPI TV](https://www.youtube.com/watch?v=fjUAXp9qg6w) (May, 2026)
 - Interview on book about sanctions on Venezuela:
+
   [Caracas Chronicles](https://www.youtube.com/watch?v=QcjeMK-Ds14&t=341s) (May, 2026)
 - Interview on JoD article on democracy and transitional justice in Venezuela:
+
   [Review of Democracy](https://revdem.ceu.edu/2026/05/11/democracy-authoritarianism-venezuela/) (April, 2026)
 - Podcast Interview on Venezuela after the extraction of Nicolás Maduro:
+
   [La Plaza de Toro](https://open.spotify.com/episode/1628HWEnS2VIkDteCzlylW?si=2Z0qAm0cT1-_hNBYlSql4w&ct=1600&nd=1&dlsi=7084e276a3de42a3) (January, 2026)
 - Interview on Venezuela after the extraction of Nicolás Maduro:
+
   [France24](https://www.youtube.com/watch?v=yJ7baDWE7WQ) (January, 2026)
 - Interview on implications of the extraction of Nicolás Maduro for Mexico:
+
   [El Universal](https://www.eluniversal.com.mx/nacion/mexico-debe-dar-prioridad-a-la-negociacion-del-t-mec-dicen-especialistas-en-medio-de-crisis-por-venezuela/) (January, 2026)
 - Interview with Andrés Oppenheimer on exit options for Nicolás Maduro in Venezuela:
+
   [Miami Herald](https://www.miamiherald.com/news/local/news-columns-blogs/andres-oppenheimer/article313026076.html) | [El Nuevo Herald](https://www.elnuevoherald.com/opinion-es/opin-col-blogs/andres-oppenheimer-es/article312995452.html) | [Diario Reforma](https://www.reforma.com/aplicacioneslibre/preacceso/articulo/default.aspx?__rval=1&urlredirect=https://busquedas.gruporeforma.com/buscar/reforma/documentos/VisorArticulos.aspx?idComptto=6&sIdIdentificadorParm=8s299872d&idproducto=3&id=303630&tipoElemento=/editoriales/&text=oppenheimer&imgUrl=https://www.gruporeforma.com/Opinion/Autor/447_perfilArtOCNRM.jpg) | [Confidencial Nicaragua](https://confidencial.digital/en/english/an-exit-plan-for-nicolas-maduro-from-venezuela/) | [Estadão](https://www.estadao.com.br/internacional/andres-oppenheimer/trump-deveria-oferecer-este-plano-de-saida-para-nicolas-maduro-na-venezuela/?srsltid=AfmBOoqmkxXAag7UXfsEfTpE-Tc7eEfjL9zD82szes_vwnSVXCAUw8PP) (November, 2025)
 - Podcast Interview on climate matching in refugee settlement choices:
+
   [The Policy Lab](https://open.spotify.com/episode/7fKj7ltarLn8YW4VjhnkM2?si=iMdi_JZJSLuphT_8EItbsQ&nd=1&dlsi=a4cb2dcfd30b41d7) (October, 2025)
 - Interview on Venezuelan 2024 election results:
+  
   [France24](https://www.youtube.com/watch?v=dD0yZOgPzlw&list=PLgETi64bAeW7ttmHdzdZFHPEV7xfmq-wN&index=3) (August, 2024)
 - Interview on the effect of the Mexican Drug War on local exports:
+  
   [Faculti](https://faculti.net/export-side-effects-of-wars-on-organized-crime) (October, 2023)
-- Interviewing Bruce Bueno de Mesquita and Alastair Smith about
-  [Political Favoritism and Regime Stability](https://growthlab.hks.harvard.edu/political-favoritism-and-regime-stability-why-bad-policy-almost-always-good-politics) (November, 2022)
+- Interviewing Bruce Bueno de Mesquita and Alastair Smith about [Political Favoritism and Regime Stability](https://growthlab.hks.harvard.edu/political-favoritism-and-regime-stability-why-bad-policy-almost-always-good-politics) (November, 2022)
 - Interviewing Chris Blattman about his fantastic new book ["Why we Fight"](https://www.youtube.com/watch?v=PoM_x-kvSFs) (July, 2022)
 - Harvard's [ReVista](https://www.youtube.com/watch?v=0NJRaCBpRlg) (April, 2020)
 - Interamerican Dialogue's [Energy Advisor](https://www.dropbox.com/s/pznifms9pkykpip/08_Dialogue.pdf?dl=0) (October, 2016)
